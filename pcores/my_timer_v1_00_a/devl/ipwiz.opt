@@ -1,0 +1,10 @@
+-batch 
+-create my_timer 
+-ver 1.00.a 
+-dir "D:\leo_i_ejpril\lab3" 
+-lang vhdl 
+-bus axi4lite s 
+-reg 4 
+-xps 
+-ise 
+-driver 
